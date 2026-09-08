@@ -1,10 +1,6 @@
 # Isosurfaces (Ada 2023)
 
-Educational Ada 2023 package for **isosurfaces**: the three-dimensional
-analog of an isoline — a surface of constant value in a volume (a level set
-of \(f:\mathbb{R}^3\to\mathbb{R}\)). Used in CFD, medical CT density
-visualization, chemistry, and geophysics.
-
+Educational Ada 2022/2023 package for isosurfaces: the three-dimensional analogue of an isoline—representing a surface of constant value within a volume (the level set of $f: \mathbb{R}^3 \to \mathbb{R}$). Commonly applied in computational fluid dynamics (CFD), medical CT density visualization, molecular chemistry, and geophysics.
 Based on the principles described in
 [Wikipedia: Isosurface](https://en.wikipedia.org/wiki/Isosurface).
 
